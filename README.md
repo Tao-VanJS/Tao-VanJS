@@ -1,8 +1,6 @@
 ### 👋 Hi there
 
-My name is Tao Xin. I created **VanJS** (https://vanjs.org, [repo](https://github.com/vanjs-org/van)) in 2023, which is the smallest reactive UI framework in the world. I think **VanJS** is super cool! With only 0.8kB in `.min.js.gz` and 1.3kB in `.min.js`, **VanJS** offers a programming experience similar to (if not better than) React. If you're interested in **VanJS**, feel free to leave your comments in [Discussions](https://github.com/vanjs-org/van/discussions).
-
-**VanJS** has a mission to *Enable everyone to build useful UI apps with a few lines of code, anywhere, any time, on any device.* If this mission resonates you, please consider starring the project. It takes just a few seconds but your support means the world to me and helps spread **VanJS** to a wider audience.
+My name is Tao Xin. I created **VanJS** (https://vanjs.org, [repo](https://github.com/vanjs-org/van)) in 2023, which is the smallest reactive UI framework in the world. I think **VanJS** is super cool! With only 0.8kB in `.min.js.gz` and 1.3kB in `.min.js`, **VanJS** offers a programming experience similar to (if not better than) React. If you're interested in **VanJS**, please consider starring the project. It takes just a few seconds but your support means the world to me and helps spread **VanJS** to a wider audience. Meanwhile, feel free to leave your comments in [Discussions](https://github.com/vanjs-org/van/discussions).
 
 ### 💡 Fun facts 
 
