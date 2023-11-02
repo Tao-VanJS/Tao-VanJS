@@ -5,7 +5,7 @@ My name is Tao Xin. I created **VanJS** (https://vanjs.org, [repo](https://githu
 ### 💡 Fun facts 
 
 - **VanJS** stands for abbreviated **Van**illa **J**ava**S**cript. The design philosophy of **VanJS** is to stay as close to Vanilla JavaScript as possible. As explain in details [here](https://vanjs.org/about#name), **VanJS** provides a way to write abbreviated/sugared form of Vanilla JavaScript code.
-- The "Why VanJS" section of https://vanjs.org home page is indeed 40% larger than the entire VanJS framework itself (1882 bytes vs 1333 bytes).
+- The "Why VanJS" section of https://vanjs.org home page is indeed 18% larger than the entire VanJS framework itself (2043 bytes vs 1729 bytes).
 - Despite **VanJS** being a front end framework, I do backend engineering for a living.
 - List of my favoriate programming languages (ranked by fondness, not by familiarity):
   1. Zig
