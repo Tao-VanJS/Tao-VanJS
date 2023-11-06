@@ -1,9 +1,9 @@
 ### 👋 Hi there
 
 <p align="center">
-  <a href="https://www.apple.com/macos"> <img alt="macOS" src="https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA40lEQVQ4jZ3RIUtDYRTG8cPiGGIQkxoMBvOQfQKLYhKD2SBGg8HqB1jcRzBPMMqqdnFBVgaixaQGkfEz7KJ3l1fuXp94OM//POeciBohcIIRmnX9KcCFqYb/MS/hExPspXoaCdM62kXctYi4jYidiLjHFlp/TVvBjV99oI8ehqX6G84wY17Ao/n1io0y4DzDPEGnGn+QARikjrhc/5MfjVOA9wzAZgrwkAFoY3emgoOMGzB98XE5wVVEvGSkaEbEajXFUUaCZyxWAQ1cz2H+wnYyF1q4LHa8wykO0S2mPmG/7PkGw63CwAFQ8l0AAAAASUVORK5CYII="> </a>
-  <a href="https://code.visualstudio.com/"> <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-green?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
-  <a href="https://www.moergo.com/"> <img alt="MoErgo-Glove80" src="https://img.shields.io/badge/Keyboard-Glove80-orange?style=for-the-badge"> </a>
+  <a href="https://www.apple.com/macos"><img alt="macOS" src="https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA40lEQVQ4jZ3RIUtDYRTG8cPiGGIQkxoMBvOQfQKLYhKD2SBGg8HqB1jcRzBPMMqqdnFBVgaixaQGkfEz7KJ3l1fuXp94OM//POeciBohcIIRmnX9KcCFqYb/MS/hExPspXoaCdM62kXctYi4jYidiLjHFlp/TVvBjV99oI8ehqX6G84wY17Ao/n1io0y4DzDPEGnGn+QARikjrhc/5MfjVOA9wzAZgrwkAFoY3emgoOMGzB98XE5wVVEvGSkaEbEajXFUUaCZyxWAQ1cz2H+wnYyF1q4LHa8wykO0S2mPmG/7PkGw63CwAFQ8l0AAAAASUVORK5CYII="></a>
+  <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-green?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://www.moergo.com/"><img alt="MoErgo-Glove80" src="https://img.shields.io/badge/Keyboard-Glove80-orange?style=for-the-badge"></a>
 </p>
 
 My name is Tao Xin. I created **VanJS** (https://vanjs.org, [repo](https://github.com/vanjs-org/van)) in 2023, which is the smallest reactive UI framework in the world. I think **VanJS** is super cool! With only 0.9kB in `.min.js.gz` and 1.7kB in `.min.js`, **VanJS** offers a programming experience similar to (if not better than) React. If you're interested in **VanJS**, please consider starring the project. It takes just a few seconds but your support means the world to me and helps spread **VanJS** to a wider audience. Meanwhile, feel free to leave your comments in [Discussions](https://github.com/vanjs-org/van/discussions).
