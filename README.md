@@ -6,7 +6,7 @@
   <a href="https://www.moergo.com/"><img alt="MoErgo-Glove80" src="https://img.shields.io/badge/Keyboard-Glove80-orange?style=for-the-badge"></a>
 </p>
 
-My name is Tao Xin. I created **VanJS** (https://vanjs.org, [repo](https://github.com/vanjs-org/van)) in 2023, which is the smallest reactive UI framework in the world. I think **VanJS** is super cool! With only 0.9kB in `.min.js.gz` and 1.7kB in `.min.js`, **VanJS** offers a programming experience similar to (if not better than) React. If you're interested in **VanJS**, please consider starring the project. It takes just a few seconds but your support means the world to me and helps spread **VanJS** to a wider audience. Meanwhile, feel free to leave your comments in [Discussions](https://github.com/vanjs-org/van/discussions).
+My name is Tao Xin. I created **VanJS** (https://vanjs.org/, [repo](https://github.com/vanjs-org/van)) in 2023, which is the smallest reactive UI framework in the world. I think **VanJS** is super cool! With only 0.9kB in `.min.js.gz` and 1.7kB in `.min.js`, **VanJS** offers a programming experience similar to (if not better than) React. If you're interested in **VanJS**, please consider starring the project. It takes just a few seconds but your support means the world to me and helps spread **VanJS** to a wider audience. Meanwhile, feel free to leave your comments in [Discussions](https://github.com/vanjs-org/van/discussions).
 
 ### 💡 Fun facts 
 
